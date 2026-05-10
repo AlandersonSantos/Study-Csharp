@@ -1,0 +1,14 @@
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\04_Projetos\Desafio 4 - Número positivo ou negativo\obj\Debug\net10.0\Desafio 4 - Número positivo ou negativo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\04_Projetos\Desafio 4 - Número positivo ou negativo\obj\Debug\net10.0\Desafio 4 - Número positivo ou negativo.AssemblyInfoInputs.cache
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\04_Projetos\Desafio 4 - Número positivo ou negativo\obj\Debug\net10.0\Desafio 4 - Número positivo ou negativo.AssemblyInfo.cs
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\04_Projetos\Desafio 4 - Número positivo ou negativo\obj\Debug\net10.0\Desafio 4 - Número positivo ou negativo.csproj.CoreCompileInputs.cache
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\04_Projetos\Desafio 4 - Número positivo ou negativo\bin\Debug\net10.0\Desafio 4 - Número positivo ou negativo.exe
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\04_Projetos\Desafio 4 - Número positivo ou negativo\bin\Debug\net10.0\Desafio 4 - Número positivo ou negativo.deps.json
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\04_Projetos\Desafio 4 - Número positivo ou negativo\bin\Debug\net10.0\Desafio 4 - Número positivo ou negativo.runtimeconfig.json
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\04_Projetos\Desafio 4 - Número positivo ou negativo\bin\Debug\net10.0\Desafio 4 - Número positivo ou negativo.dll
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\04_Projetos\Desafio 4 - Número positivo ou negativo\bin\Debug\net10.0\Desafio 4 - Número positivo ou negativo.pdb
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\04_Projetos\Desafio 4 - Número positivo ou negativo\obj\Debug\net10.0\Desafio 4 - Número positivo ou negativo.dll
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\04_Projetos\Desafio 4 - Número positivo ou negativo\obj\Debug\net10.0\refint\Desafio 4 - Número positivo ou negativo.dll
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\04_Projetos\Desafio 4 - Número positivo ou negativo\obj\Debug\net10.0\Desafio 4 - Número positivo ou negativo.pdb
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\04_Projetos\Desafio 4 - Número positivo ou negativo\obj\Debug\net10.0\Desafio 4 - Número positivo ou negativo.genruntimeconfig.cache
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\04_Projetos\Desafio 4 - Número positivo ou negativo\obj\Debug\net10.0\ref\Desafio 4 - Número positivo ou negativo.dll

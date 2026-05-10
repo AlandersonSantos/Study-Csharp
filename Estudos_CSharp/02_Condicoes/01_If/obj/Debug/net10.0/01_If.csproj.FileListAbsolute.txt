@@ -1,0 +1,14 @@
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\02_Condicoes\01_If\bin\Debug\net10.0\01_If.exe
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\02_Condicoes\01_If\bin\Debug\net10.0\01_If.deps.json
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\02_Condicoes\01_If\bin\Debug\net10.0\01_If.runtimeconfig.json
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\02_Condicoes\01_If\bin\Debug\net10.0\01_If.dll
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\02_Condicoes\01_If\bin\Debug\net10.0\01_If.pdb
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\02_Condicoes\01_If\obj\Debug\net10.0\01_If.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\02_Condicoes\01_If\obj\Debug\net10.0\01_If.AssemblyInfoInputs.cache
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\02_Condicoes\01_If\obj\Debug\net10.0\01_If.AssemblyInfo.cs
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\02_Condicoes\01_If\obj\Debug\net10.0\01_If.csproj.CoreCompileInputs.cache
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\02_Condicoes\01_If\obj\Debug\net10.0\01_If.dll
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\02_Condicoes\01_If\obj\Debug\net10.0\refint\01_If.dll
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\02_Condicoes\01_If\obj\Debug\net10.0\01_If.pdb
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\02_Condicoes\01_If\obj\Debug\net10.0\01_If.genruntimeconfig.cache
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\02_Condicoes\01_If\obj\Debug\net10.0\ref\01_If.dll

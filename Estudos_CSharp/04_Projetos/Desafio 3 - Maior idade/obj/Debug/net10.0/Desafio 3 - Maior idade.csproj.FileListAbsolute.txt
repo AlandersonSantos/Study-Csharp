@@ -1,0 +1,14 @@
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\04_Projetos\Desafio 3 - Maior idade\bin\Debug\net10.0\Desafio 3 - Maior idade.exe
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\04_Projetos\Desafio 3 - Maior idade\bin\Debug\net10.0\Desafio 3 - Maior idade.deps.json
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\04_Projetos\Desafio 3 - Maior idade\bin\Debug\net10.0\Desafio 3 - Maior idade.runtimeconfig.json
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\04_Projetos\Desafio 3 - Maior idade\bin\Debug\net10.0\Desafio 3 - Maior idade.dll
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\04_Projetos\Desafio 3 - Maior idade\bin\Debug\net10.0\Desafio 3 - Maior idade.pdb
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\04_Projetos\Desafio 3 - Maior idade\obj\Debug\net10.0\Desafio 3 - Maior idade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\04_Projetos\Desafio 3 - Maior idade\obj\Debug\net10.0\Desafio 3 - Maior idade.AssemblyInfoInputs.cache
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\04_Projetos\Desafio 3 - Maior idade\obj\Debug\net10.0\Desafio 3 - Maior idade.AssemblyInfo.cs
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\04_Projetos\Desafio 3 - Maior idade\obj\Debug\net10.0\Desafio 3 - Maior idade.csproj.CoreCompileInputs.cache
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\04_Projetos\Desafio 3 - Maior idade\obj\Debug\net10.0\Desafio 3 - Maior idade.dll
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\04_Projetos\Desafio 3 - Maior idade\obj\Debug\net10.0\refint\Desafio 3 - Maior idade.dll
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\04_Projetos\Desafio 3 - Maior idade\obj\Debug\net10.0\Desafio 3 - Maior idade.pdb
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\04_Projetos\Desafio 3 - Maior idade\obj\Debug\net10.0\Desafio 3 - Maior idade.genruntimeconfig.cache
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\04_Projetos\Desafio 3 - Maior idade\obj\Debug\net10.0\ref\Desafio 3 - Maior idade.dll

@@ -1,0 +1,14 @@
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\04_Projetos\Desafio 2 — Mudando o Valor da Variável\bin\Debug\net10.0\Desafio 2 — Mudando o Valor da Variável.exe
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\04_Projetos\Desafio 2 — Mudando o Valor da Variável\bin\Debug\net10.0\Desafio 2 — Mudando o Valor da Variável.deps.json
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\04_Projetos\Desafio 2 — Mudando o Valor da Variável\bin\Debug\net10.0\Desafio 2 — Mudando o Valor da Variável.runtimeconfig.json
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\04_Projetos\Desafio 2 — Mudando o Valor da Variável\bin\Debug\net10.0\Desafio 2 — Mudando o Valor da Variável.dll
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\04_Projetos\Desafio 2 — Mudando o Valor da Variável\bin\Debug\net10.0\Desafio 2 — Mudando o Valor da Variável.pdb
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\04_Projetos\Desafio 2 — Mudando o Valor da Variável\obj\Debug\net10.0\Desafio 2 — Mudando o Valor da Variável.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\04_Projetos\Desafio 2 — Mudando o Valor da Variável\obj\Debug\net10.0\Desafio 2 — Mudando o Valor da Variável.AssemblyInfoInputs.cache
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\04_Projetos\Desafio 2 — Mudando o Valor da Variável\obj\Debug\net10.0\Desafio 2 — Mudando o Valor da Variável.AssemblyInfo.cs
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\04_Projetos\Desafio 2 — Mudando o Valor da Variável\obj\Debug\net10.0\Desafio 2 — Mudando o Valor da Variável.csproj.CoreCompileInputs.cache
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\04_Projetos\Desafio 2 — Mudando o Valor da Variável\obj\Debug\net10.0\Desafio 2 — Mudando o Valor da Variável.dll
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\04_Projetos\Desafio 2 — Mudando o Valor da Variável\obj\Debug\net10.0\refint\Desafio 2 — Mudando o Valor da Variável.dll
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\04_Projetos\Desafio 2 — Mudando o Valor da Variável\obj\Debug\net10.0\Desafio 2 — Mudando o Valor da Variável.pdb
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\04_Projetos\Desafio 2 — Mudando o Valor da Variável\obj\Debug\net10.0\Desafio 2 — Mudando o Valor da Variável.genruntimeconfig.cache
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\04_Projetos\Desafio 2 — Mudando o Valor da Variável\obj\Debug\net10.0\ref\Desafio 2 — Mudando o Valor da Variável.dll

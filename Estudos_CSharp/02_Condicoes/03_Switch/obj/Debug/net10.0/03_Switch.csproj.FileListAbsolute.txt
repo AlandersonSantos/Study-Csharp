@@ -1,0 +1,14 @@
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\02_Condicoes\03_Switch\bin\Debug\net10.0\03_Switch.exe
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\02_Condicoes\03_Switch\bin\Debug\net10.0\03_Switch.deps.json
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\02_Condicoes\03_Switch\bin\Debug\net10.0\03_Switch.runtimeconfig.json
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\02_Condicoes\03_Switch\bin\Debug\net10.0\03_Switch.dll
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\02_Condicoes\03_Switch\bin\Debug\net10.0\03_Switch.pdb
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\02_Condicoes\03_Switch\obj\Debug\net10.0\03_Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\02_Condicoes\03_Switch\obj\Debug\net10.0\03_Switch.AssemblyInfoInputs.cache
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\02_Condicoes\03_Switch\obj\Debug\net10.0\03_Switch.AssemblyInfo.cs
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\02_Condicoes\03_Switch\obj\Debug\net10.0\03_Switch.csproj.CoreCompileInputs.cache
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\02_Condicoes\03_Switch\obj\Debug\net10.0\03_Switch.dll
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\02_Condicoes\03_Switch\obj\Debug\net10.0\refint\03_Switch.dll
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\02_Condicoes\03_Switch\obj\Debug\net10.0\03_Switch.pdb
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\02_Condicoes\03_Switch\obj\Debug\net10.0\03_Switch.genruntimeconfig.cache
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\02_Condicoes\03_Switch\obj\Debug\net10.0\ref\03_Switch.dll

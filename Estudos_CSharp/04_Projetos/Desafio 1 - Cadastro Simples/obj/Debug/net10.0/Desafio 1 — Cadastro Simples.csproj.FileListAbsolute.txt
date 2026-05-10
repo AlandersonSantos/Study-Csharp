@@ -1,0 +1,14 @@
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\04_Projetos\Desafio 1 — Cadastro Simples\bin\Debug\net10.0\Desafio 1 — Cadastro Simples.exe
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\04_Projetos\Desafio 1 — Cadastro Simples\bin\Debug\net10.0\Desafio 1 — Cadastro Simples.deps.json
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\04_Projetos\Desafio 1 — Cadastro Simples\bin\Debug\net10.0\Desafio 1 — Cadastro Simples.runtimeconfig.json
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\04_Projetos\Desafio 1 — Cadastro Simples\bin\Debug\net10.0\Desafio 1 — Cadastro Simples.dll
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\04_Projetos\Desafio 1 — Cadastro Simples\bin\Debug\net10.0\Desafio 1 — Cadastro Simples.pdb
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\04_Projetos\Desafio 1 — Cadastro Simples\obj\Debug\net10.0\Desafio 1 — Cadastro Simples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\04_Projetos\Desafio 1 — Cadastro Simples\obj\Debug\net10.0\Desafio 1 — Cadastro Simples.AssemblyInfoInputs.cache
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\04_Projetos\Desafio 1 — Cadastro Simples\obj\Debug\net10.0\Desafio 1 — Cadastro Simples.AssemblyInfo.cs
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\04_Projetos\Desafio 1 — Cadastro Simples\obj\Debug\net10.0\Desafio 1 — Cadastro Simples.csproj.CoreCompileInputs.cache
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\04_Projetos\Desafio 1 — Cadastro Simples\obj\Debug\net10.0\Desafio 1 — Cadastro Simples.dll
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\04_Projetos\Desafio 1 — Cadastro Simples\obj\Debug\net10.0\refint\Desafio 1 — Cadastro Simples.dll
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\04_Projetos\Desafio 1 — Cadastro Simples\obj\Debug\net10.0\Desafio 1 — Cadastro Simples.pdb
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\04_Projetos\Desafio 1 — Cadastro Simples\obj\Debug\net10.0\Desafio 1 — Cadastro Simples.genruntimeconfig.cache
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\04_Projetos\Desafio 1 — Cadastro Simples\obj\Debug\net10.0\ref\Desafio 1 — Cadastro Simples.dll

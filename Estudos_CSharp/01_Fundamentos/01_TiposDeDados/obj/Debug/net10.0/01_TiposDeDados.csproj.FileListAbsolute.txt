@@ -1,0 +1,14 @@
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\01_Fundamentos\01_TiposDeDados\bin\Debug\net10.0\01_TiposDeDados.exe
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\01_Fundamentos\01_TiposDeDados\bin\Debug\net10.0\01_TiposDeDados.deps.json
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\01_Fundamentos\01_TiposDeDados\bin\Debug\net10.0\01_TiposDeDados.runtimeconfig.json
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\01_Fundamentos\01_TiposDeDados\bin\Debug\net10.0\01_TiposDeDados.dll
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\01_Fundamentos\01_TiposDeDados\bin\Debug\net10.0\01_TiposDeDados.pdb
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\01_Fundamentos\01_TiposDeDados\obj\Debug\net10.0\01_TiposDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\01_Fundamentos\01_TiposDeDados\obj\Debug\net10.0\01_TiposDeDados.AssemblyInfoInputs.cache
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\01_Fundamentos\01_TiposDeDados\obj\Debug\net10.0\01_TiposDeDados.AssemblyInfo.cs
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\01_Fundamentos\01_TiposDeDados\obj\Debug\net10.0\01_TiposDeDados.csproj.CoreCompileInputs.cache
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\01_Fundamentos\01_TiposDeDados\obj\Debug\net10.0\01_TiposDeDados.dll
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\01_Fundamentos\01_TiposDeDados\obj\Debug\net10.0\refint\01_TiposDeDados.dll
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\01_Fundamentos\01_TiposDeDados\obj\Debug\net10.0\01_TiposDeDados.pdb
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\01_Fundamentos\01_TiposDeDados\obj\Debug\net10.0\01_TiposDeDados.genruntimeconfig.cache
+C:\Users\aland\Dev_Estudo\Estudos_CSharp\01_Fundamentos\01_TiposDeDados\obj\Debug\net10.0\ref\01_TiposDeDados.dll
