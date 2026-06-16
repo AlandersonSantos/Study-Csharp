@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aland\\Dev_Profissional\\Study-Csharp\\Estudos_CSharp\\Fundamentos_C#.csproj",
-      "projectName": "Fundamentos_C#",
-      "projectPath": "C:\\Users\\aland\\Dev_Profissional\\Study-Csharp\\Estudos_CSharp\\Fundamentos_C#.csproj",
+      "projectUniqueName": "C:\\Users\\aland\\Dev_Profissional\\Study-Csharp\\Estudos_CSharp\\3_Operadores Aritméticos\\3_Operadores Aritméticos.csproj",
+      "projectName": "3_Operadores Aritméticos",
+      "projectPath": "C:\\Users\\aland\\Dev_Profissional\\Study-Csharp\\Estudos_CSharp\\3_Operadores Aritméticos\\3_Operadores Aritméticos.csproj",
       "packagesPath": "C:\\Users\\aland\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aland\\Dev_Profissional\\Study-Csharp\\Estudos_CSharp\\obj\\",
+      "outputPath": "C:\\Users\\aland\\Dev_Profissional\\Study-Csharp\\Estudos_CSharp\\3_Operadores Aritméticos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aland\\AppData\\Roaming\\NuGet\\NuGet.Config"
